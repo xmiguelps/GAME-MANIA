@@ -1,6 +1,7 @@
 body {
     color: white;
     background-color: #0b2866;
+    height: 100vh;
 }
 
 body > header {
@@ -625,6 +626,7 @@ footer {
     transition: 0.3s;
     width: 800px;
     align-items: center;
+    margin-bottom: 50px;
 }
 
 .box-galeria-favorite {
