@@ -1,4 +1,4 @@
-###O Site possui recursos como:
+## O Site possui recursos como:
 <ul>
     <li>Responsividade</li>
     <li>Eventos de pesquisa</li>
